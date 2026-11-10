@@ -1,8 +1,7 @@
 # Data
 
-This folder contains the dataset used in the **Navigating Inequality: How Economic Disparities Affect London's Housing Landscape** project.
+This folder contains the dataset used in the **Navigating Inequality: How Economic Disparities Affect London's Housing Landscape** project. Made for academic analysis.
 
-The data brings together property transaction records and housing energy performance indicators to explore patterns in London's housing market.
 
 ### Key Variables
 
@@ -21,3 +20,15 @@ The dataset was explored and used to support the Tableau visualisations examinin
 ### Data Source
 
 The dataset is based on London property and energy performance records. Please refer to the original dataset documentation for source details and usage permissions.
+
+The original dataset was supplied as a ZIP archive and contains approximately 6.2 GB of extracted data.
+
+The data brings together property transaction records and housing energy performance indicators to explore patterns in London's housing market.
+
+### Data Availability 
+
+Due to the dataset's large size and its distribution through course materials, the original CSV files are not included in the repository.
+
+The dataset was used extensively for the analysis and development of the Tableau visualisations presented in this project.
+
+**Source:** Professor provided dataset for practice
